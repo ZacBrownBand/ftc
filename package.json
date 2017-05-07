@@ -1,0 +1,20 @@
+{
+  "name": "ftc",
+  "version": "0.0.1",
+  "description": "FTC is a clock based mod five game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacBrownBand/ftc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacBrownBand/ftc/issues"
+  },
+  "homepage": "https://github.com/ZacBrownBand/ftc#readme",
+  "devDependencies": {}
+}
